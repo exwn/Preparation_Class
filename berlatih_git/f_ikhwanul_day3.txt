@@ -1,5 +1,3 @@
 Nama : Farix Ikhwanul Hartando
 Stack : Backend
-Branch : main
-
-Tambahkan line di main
+Branch : SesiSore
